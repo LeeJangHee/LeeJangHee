@@ -3,9 +3,7 @@
 
 ![LeeJangHee GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJangHee&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJanghee&layout=compact&theme=vue-dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj90947)](https://solved.ac/sj90947)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJanghee&layout=compact&theme=vue-dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj90947)](https://solved.ac/sj90947)
 ---
 ### 🛠Tack Stac
 - Language : <img src="https://img.shields.io/badge/-Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white"/>
