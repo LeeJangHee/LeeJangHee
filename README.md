@@ -1,7 +1,8 @@
 # 👋 안녕하세요. 안드로이드 개발자 이장희입니다.
 
 
-![LeeJangHee GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJangHee&show_icons=true&theme=vue-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJanghee&layout=compact&theme=vue-dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+![LeeJangHee GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJangHee&show_icons=true&theme=vue-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJanghee&layout=compact&theme=vue-dark&langs_count=4&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj90947)](https://solved.ac/sj90947)
 ---
