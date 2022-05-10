@@ -12,4 +12,4 @@
 - Version Control : <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/-GitLab-%23FCA121?style=flat-square&logo=gitlab&logoColor=white"/>
 
 ### 📚 Blog
-- 준비중...
+velog: <https://velog.io/@aios_>
